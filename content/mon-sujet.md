@@ -12,3 +12,5 @@ git config --global abracadabra
 mkdir monRepertoire
 cd monRepertoire
 git init .
+4.1 Des branches
+Blablabla modif 1
