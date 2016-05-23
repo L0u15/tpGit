@@ -6,6 +6,7 @@ title = "Réponses Tp Git"
 
 # Réponses Tp Git
 MODIF 4
+MODIF 42
 Voici les réponses du Tp de lundi 23 mai. L'article et son contenu n'engage que celui qui les utilise. Bonnne lecture !
 1. Configuration
 git config --global abracadabra
