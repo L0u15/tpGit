@@ -7,6 +7,7 @@ title = "Réponses Tp Git"
 # Réponses Tp Git
 MODIF 4
 MODIF 42
+MODIF 88888888
 Voici les réponses du Tp de lundi 23 mai. L'article et son contenu n'engage que celui qui les utilise. Bonnne lecture !
 1. Configuration
 git config --global abracadabra
@@ -25,3 +26,4 @@ git diff
 Blablabla modif 1
 machin machin modif 2
 MODIF 7 777777777
+
