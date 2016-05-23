@@ -25,3 +25,4 @@ git diff
 Blablabla modif 1
 machin machin modif 2
 MODIF 5 blablalbalbalbal
+MODIF 6 ouai super !
