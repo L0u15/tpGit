@@ -21,3 +21,6 @@ git log
 2.2.2. Second changement
 git diff
 2.2.3. Suppression
+4.1 Des branches
+Blablabla modif 1
+machin machin modif 2
