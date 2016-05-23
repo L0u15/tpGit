@@ -24,3 +24,4 @@ git diff
 4.1 Des branches
 Blablabla modif 1
 machin machin modif 2
+MODIF 7 777777777
