@@ -14,3 +14,4 @@ cd monRepertoire
 git init .
 4.1 Des branches
 Blablabla modif 1
+machin machin modif 2
