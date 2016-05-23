@@ -12,3 +12,10 @@ git config --global abracadabra
 mkdir monRepertoire
 cd monRepertoire
 git init .
+2.2.1. Premier article
+git add.
+git commit
+git log
+2.2.2. Second changement
+git diff
+2.2.3. Suppression
